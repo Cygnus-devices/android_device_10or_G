@@ -1,0 +1,44 @@
+[
+  {
+    "remote":      "Cygnus-devices",
+    "repository":  "vendor_10or_G",
+    "target_path": "vendor/10or/G",
+    "branch":      "caf-12"
+  },
+  {
+    "remote":      "Cygnus-devices",
+    "repository":  "kernel_10or_G",
+    "target_path": "kernel/10or/G",
+    "branch":      "caf-12"
+  },
+  {
+    "remote":      "github",
+    "repository":  "kardebayan/android_device_qcom_sepolicy",
+    "target_path": "device/qcom/sepolicy-legacy",
+    "branch":      "caf-12"
+  },
+  {
+    "remote": "Cygnus-devices",
+    "repository": "hardware_qcom_media",
+    "target_path": "hardware/qcom/media",
+    "branch": "caf-12-msm8996"
+  },
+  {
+    "remote": "Cygnus-devices",
+    "repository": "hardware_qcom_display",
+    "target_path": "hardware/qcom/display",
+    "branch": "caf-12-msm8996"
+  },
+  {
+    "remote":      "github",
+    "repository":  "kardebayan/android_vendor_qcom_opensource_cryptfs_hw",
+    "target_path": "vendor/qcom/opensource/commonsys/cryptfs_hw",
+    "branch":      "caf-12"
+  },
+  {
+    "remote": "Cygnus-devices",
+    "repository": "vendor_qcom_opensource_audio-hal_primary-hal",
+    "target_path": "vendor/qcom/opensource/audio-hal/primary-hal",
+    "branch": "caf-12-msm8996"
+  }
+]
